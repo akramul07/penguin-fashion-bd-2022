@@ -1,0 +1,57 @@
+.head-section{
+    color: #FABE4C;
+}
+.image img{
+    height: 40px;
+    width: 290px;
+}
+.top-header{
+    font-family: bebas neue;
+    font-size: 80px;
+    line-height: 96px;
+}
+.text-heilignt{
+    color: #FABE4C;
+}
+.btn img{
+    height: 35px;
+}
+.button {
+    font-size: 20px;
+    
+}
+.card img {
+    width: 293px;
+    height: 293px;
+}
+.price{
+    color: #FABE4C;
+    font-size: 2rem;
+    font-weight: 700;
+}
+#btn-img{
+    height: 35px;
+    width: 35px;
+}
+.shoping img{
+    height: 354px;
+    width: 599;
+}
+.icon img{
+    height: 75px;
+    width: 75px;
+}
+.icon{
+    height: 135px;
+    width: 490px;
+}
+.last-section{
+    margin-top: 130px;
+}
+footer{
+    color: white;
+    height: 120px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
